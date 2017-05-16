@@ -9,11 +9,6 @@ import javax.imageio.ImageIO;
 
 public class Mandelbrot {
 	
-	//the boundary of the period 2 disk: r = 0.25, x = r*cos(theta)-1, y = r*sin(theta)
-	//static double theta = Math.PI/2;
-	//static double r = 0.25;
-	//static double cx = r*Math.cos(theta) - 1;
-	//static double cy = r*Math.sin(theta);
 	static double cx = -1.74006238257933990522;
 	static double cy = 0.02817533977921104899;
 	//-0.1002,0.8383
